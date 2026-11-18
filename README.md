@@ -9,7 +9,7 @@ I specialize in building sophisticated automation tools, smart self-bots, and ad
 
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=ghostypie&hide_rank=true&show_icons=true&include_all_commits=true&theme=dark" alt="GhoSty GitHub Stats" height="150" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=wannabeghost&layout=compact&langs_count=4&theme=dark" alt="GhoSty Top Languages" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ghostypie&layout=compact&langs_count=4&theme=dark" alt="GhoSty Top Languages" height="150" />
 </p>
 
 ---
