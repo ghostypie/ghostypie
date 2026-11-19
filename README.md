@@ -1,7 +1,7 @@
 # 👋 Hi, I am GhoSty
 **Intermediate Developer & Automation Engineer based in India** 🇮🇳
 
-I specialize in building sophisticated automation tools, smart self-bots, and advanced script architectures. My work focuses heavily on optimized backend infrastructure using **Python** and **JavaScript/Node.js**, mostly within the Discord ecosystem.
+I specialize in building sophisticated automation tools, smart tools, and advanced script architectures. My work focuses heavily on optimized backend infrastructure using **Python** and **JavaScript/Node.js**, mostly within the Discord ecosystem.
 
 ---
 
